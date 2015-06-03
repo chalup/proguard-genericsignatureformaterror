@@ -1,1 +1,2 @@
 -dontwarn sun.misc.Unsafe
+-dontobfuscate
